@@ -1,4 +1,4 @@
-# Accelerate AI adoption with Semantic Kernel and RAG
+# Accelerate GenAI Apps development with Semantic Kernel and RAG
 
 ## What is Semantic Kernel?
 
