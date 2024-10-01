@@ -4,6 +4,8 @@
 
 Semantic Kernel (SK) is a powerful open-source framework developed by Microsoft that enables developers to create AI applications that leverage natural language understanding (NLU) and reasoning capabilities. With SK, developers can create semantic-aware applications that understand the context and meaning of user input, making interactions more intelligent and intuitive.
 
+SK is currently available for .NET and Python but more language support may come in future updates, so keep your eyes out for this expansions.
+
 ### Pros and Cons of Semantic Kernel
 
 #### Pros
