@@ -86,7 +86,7 @@ Using a multi-agent solution with Semantic Kernel and .NET can offer various ben
 
 1. Incorporating Semantic Kernel with .NET allows you to leverage Microsoft's robust ecosystem, combining it with Azure's powerful AI capabilities for enhanced natural language understanding and contextual awareness. This makes your multi-agent solution even more effective and intelligent.
 
-## Use Case: Car recommendation
+## Real World Use Case: Chatbot for Car recommendations
 
 ### Prompt Engineering
 
