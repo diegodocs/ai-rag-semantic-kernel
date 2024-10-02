@@ -6,26 +6,6 @@ Semantic Kernel (SK) is a powerful open-source framework developed by Microsoft 
 
 SK is currently available for .NET and Python but more language support may come in future updates, so keep your eyes out for this expansions.
 
-### Pros and Cons of Semantic Kernel
-
-#### Pros
-
-1. Enhanced User Experience: SK enables more natural and intuitive interactions between users and applications, improving overall user satisfaction.
-
-1. Contextual Understanding: By understanding the context and meaning behind user inputs, SK allows for more accurate and relevant responses.
-
-1. Flexibility: SK can be integrated with various AI services, including Azure OpenAI, allowing developers to choose the best tools for their specific needs.
-
-1. Open Source: As an open-source framework, SK encourages community contributions and continuous improvement.
-
-#### Cons
-
-1. Complexity: Implementing SK requires a good understanding of NLU and AI concepts, which can be challenging for some developers.
-
-1. Performance: Depending on the complexity of the application and the quality of the training data, SK's performance may vary.
-
-1. Dependency on AI Services: While SK's flexibility is a strength, it also means that developers may need to rely on multiple AI services, which can increase costs and dependencies.
-
 ## Code Example: Using .NET and Azure OpenAI with Semantic Kernel
 
 Here's a simple example to get you started with Semantic Kernel using .NET and Azure OpenAI.
@@ -72,7 +52,27 @@ class Program
 }
 ```
 
-## Why create multi-agent solutions ?
+### Pros and Cons of Semantic Kernel
+
+#### Pros
+
+1. Enhanced User Experience: SK enables more natural and intuitive interactions between users and applications, improving overall user satisfaction.
+
+1. Contextual Understanding: By understanding the context and meaning behind user inputs, SK allows for more accurate and relevant responses.
+
+1. Flexibility: SK can be integrated with various AI services, including Azure OpenAI, allowing developers to choose the best tools for their specific needs.
+
+1. Open Source: As an open-source framework, SK encourages community contributions and continuous improvement.
+
+#### Cons
+
+1. Complexity: Implementing SK requires a good understanding of NLU and AI concepts, which can be challenging for some developers.
+
+1. Performance: Depending on the complexity of the application and the quality of the training data, SK's performance may vary.
+
+1. Dependency on AI Services: While SK's flexibility is a strength, it also means that developers may need to rely on multiple AI services, which can increase costs and dependencies.
+
+## Multi-agent solutions
 
 Using a multi-agent solution with Semantic Kernel and .NET can offer various benefits:
 
